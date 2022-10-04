@@ -256,7 +256,7 @@ Addresses:  2606:4700:20::681a:ae9
           104.26.10.233
           172.67.74.226
           
-Ynov a plusieurs adresses (pour les routeurs)
+Ynov a plusieurs serveurs web d'ou plusieurs adresses 
 
 C:\Users\lukas>nslookup 231.34.113.12
 Server:  dns.google
